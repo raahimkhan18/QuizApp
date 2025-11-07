@@ -11,7 +11,7 @@ This version features a *Guess the Country Flag* quiz with **10 questions**, sho
 |------------|------------|---------------|
 | ![s1](screenshots/s1.jpg) | ![s2](screenshots/s2.jpg) | ![s3](screenshots/s3.jpg) |
 
-> *(Add screenshots to a folder named `screenshots` to make this table work — instructions below.)*
+
 
 ---
 
