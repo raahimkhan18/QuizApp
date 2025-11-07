@@ -1,4 +1,4 @@
-# MyQuizApp 🎯
+# QuizApp 🎯
 
 **MyQuizApp** is a fun and interactive **multiple-choice quiz application** built in Android Studio using **Kotlin** and **XML**.  
 This version features a *Guess the Country Flag* quiz with **10 questions**, showing results based on your correct answers.
