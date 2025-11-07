@@ -40,7 +40,7 @@ This version features a *Guess the Country Flag* quiz with **10 questions**, sho
 ## 🎨 App Logo
 
 <p align="center">
-  <img src="app_logo.png" alt="App Logo" width="180">
+  <img src="screenshots/app_logo.png" alt="App Logo" width="180">
 </p>
 
 (Add the logo to your repository root as **app_logo.png** for this to display.)
